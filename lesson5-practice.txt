@@ -31,7 +31,7 @@ I have eaten 3 cake.
 I have eaten 4 cake.
 Wonderful world.
 --------------------------------
-4. Как задача 1, но после обределенного пирожка Пете становится плохо. Он есть и добавляет:
+4. Как задача 1, но после определенного пирожка Пете становится плохо. Он есть и добавляет:
 I'm feeling bad.
 
 IN: cakes=3, borderCake=1.
@@ -62,7 +62,7 @@ I'm 3 person. I have eaten 2 cake.
     ДОПОЛНИТЕЛЬНЫЕ ЗАДАЧИ
 --------------------------------
 
-6. TrianglePrinter
+6. com.bvan.javastart.lessons5_6.triangle.TrianglePrinter
 Напечатать треугольник длиной size. Формат треугольника задан ниже.
 
 IN: size=4
