@@ -9,6 +9,8 @@ Prog.kiev.ua. Java Start. Группа 76
 
 [Java Start. Богдан. Группа 78. Лекции 5-6 (03.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3666.0.html)
 
+[Java Start. Богдан. Группа 78. Лекции 7-8 (09.06.2018)](https://prog.kiev.ua/forum/index.php/topic,3680.0.html)
+
 ## Запуск проекта локально в Intellij IDEA
 
 1. Скачать исходный код в виде архива (кнопка **Clone or download**).
