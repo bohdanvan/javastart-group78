@@ -62,7 +62,7 @@ I'm 3 person. I have eaten 2 cake.
     ДОПОЛНИТЕЛЬНЫЕ ЗАДАЧИ
 --------------------------------
 
-6. com.bvan.javastart.lessons5_6.triangle.TrianglePrinter
+6. TrianglePrinter
 Напечатать треугольник длиной size. Формат треугольника задан ниже.
 
 IN: size=4
